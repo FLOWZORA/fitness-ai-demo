@@ -32,7 +32,7 @@ EMBEDDING_COST_PER_1M_TOKENS = 0.02
 # CLIENT IDENTITY — change these per real engagement
 # ---------------------------------------------------------------
 CLIENT_NAME = os.environ.get("CLIENT_NAME", "FitCoach Pro (Demo Client)")
-AUDITOR_NAME = os.environ.get("AUDITOR_NAME", "Your Name — AI Systems Audit & Optimization")
+AUDITOR_NAME = os.environ.get("AUDITOR_NAME", "Vaibhav Tiwari — AI Systems Audit & Optimization")
 
 # ---------------------------------------------------------------
 # PATHS

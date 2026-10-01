@@ -7,6 +7,8 @@
 [![Ragas](https://img.shields.io/badge/Eval-Ragas%20Triad-green.svg)](https://github.com/explodinggradients/ragas)
 [![Promptfoo](https://img.shields.io/badge/CI%2FCD-Promptfoo-teal.svg)](https://www.promptfoo.dev/)
 [![Gradio](https://img.shields.io/badge/UI-Gradio-ff7c00.svg?logo=gradio&logoColor=white)](https://gradio.app/)
+[![Author](https://img.shields.io/badge/Author-Vaibhav%20Tiwari-blueviolet.svg)](https://github.com/FLOWZORA)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 > **An enterprise-grade AI auditing, prompt optimization, and grounded RAG platform designed to eliminate liability, prevent hallucinations, and verify safety in health & fitness AI systems.**
 
@@ -264,6 +266,14 @@ To repurpose this pipeline for a production client audit:
 3. **Populate Knowledge Base**: Replace files in `knowledge_base/` with the client's proprietary training manuals, protocols, or FAQs.
 4. **Recalibrate**: Run `python calibrate_threshold.py` to calculate the optimal `MIN_RELEVANCE` score for their unique vocabulary.
 5. **Run & Deliver**: Run `python run_pipeline.py` to produce `AI_Audit_Report.docx`, the optimized system prompt, and a client-facing Gradio RAG demo.
+
+---
+
+## Author
+
+**Vaibhav Tiwari**
+- **GitHub**: [@FLOWZORA](https://github.com/FLOWZORA)
+- **Email**: [tvaibhav619@gmail.com](mailto:tvaibhav619@gmail.com)
 
 ---
 
