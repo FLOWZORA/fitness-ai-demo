@@ -1,0 +1,10 @@
+# Core Pipeline & LLM Integrations
+openai>=1.30.0
+pydantic>=2.0.0
+
+# Vector Database & Text Processing
+chromadb>=0.4.0
+langchain-text-splitters>=0.2.0
+
+# Frontend Demo UI
+gradio>=4.0.0

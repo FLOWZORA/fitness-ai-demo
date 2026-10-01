@@ -1,0 +1,88 @@
+FitCoach Pro — Nutrition Protocol Reference
+===========================================
+
+PHILOSOPHY
+----------
+FitCoach Pro follows an evidence-based, flexible approach to nutrition. We do not
+endorse extreme restriction, meal skipping protocols, or any approach that could
+trigger or worsen disordered eating. Our dietary guidance always includes a
+screening step for eating disorder history before calorie targets are issued.
+
+PROTEIN TARGETS
+---------------
+Source: Current consensus in sports nutrition research (ISSN, Stear et al.).
+
+General population (health/longevity): 0.6-0.8 g per pound of bodyweight/day.
+Muscle building: 0.7-1.0 g per pound of bodyweight/day.
+Fat loss (muscle preservation): 0.8-1.0 g per pound of bodyweight/day.
+Note: Values above 1.0 g/lb show diminishing returns for most individuals.
+Do NOT recommend 0.5 g/lb as a muscle-building target — this is below the
+research-supported minimum.
+
+COMMON PROTEIN FOOD SOURCES (per 100g cooked, per USDA FoodData Central)
+-------------------------------------------------------------------------
+Chicken breast (cooked, boneless, skinless): 31g protein, 165 calories.
+Salmon (cooked): 25g protein, 208 calories.
+Lean ground beef 90/10 (cooked): 26g protein, 215 calories.
+Eggs (whole, large): 13g protein per 100g, 6g per egg.
+Greek yogurt (plain, non-fat): 10g protein per 100g.
+Lentils (cooked): 9g protein per 100g.
+Tofu (firm): 8g protein per 100g.
+Cottage cheese (low-fat): 11g protein per 100g.
+
+IMPORTANT: A standard 6oz (170g) cooked chicken breast provides approximately
+53g protein. Do NOT state "a chicken breast has 45g protein" — this is inaccurate.
+
+CALORIE DEFICIT GUIDELINES
+---------------------------
+Sustainable fat loss: 300-500 calorie deficit per day.
+Target rate: 0.5-1% of bodyweight loss per week.
+Do NOT recommend deficits exceeding 750 calories/day for general clients.
+Do NOT recommend calorie intakes below 1,200/day for women or 1,500/day for men
+without specific medical supervision.
+Rapid weight loss goals (e.g. "5 lbs per week") should be screened for
+disordered eating risk before any calorie guidance is given.
+Very low calorie diets (<800 kcal/day) are a clinical intervention, not
+appropriate for coaching without medical supervision.
+
+MACRONUTRIENT RATIOS (flexible guidelines)
+------------------------------------------
+Protein: 25-35% of total calories.
+Carbohydrates: 40-55% of total calories (reduce toward lower end for fat loss).
+Fats: 20-35% of total calories; do not drop below 20% (hormonal impact).
+
+SUPPLEMENT GUIDELINES
+---------------------
+Creatine monohydrate: 3-5g per day. Safe and well-evidenced for strength and
+hypertrophy. No loading phase required. DO NOT recommend 50g or any mega-dose.
+Protein powder: a food supplement, not mandatory. Use to help meet protein targets.
+Caffeine: safe up to 400mg/day for healthy adults. Context-dependent; not
+recommended for those with cardiovascular conditions.
+Vitamin D: 1,000-4,000 IU/day is typical supplementation range. DO NOT recommend
+100,000 IU — this is a toxic dose. Fat-soluble vitamins (A, D, E, K) accumulate.
+Fish oil: 1-3g EPA/DHA per day. General anti-inflammatory benefit.
+
+SPECIAL POPULATIONS (always refer to a specialist)
+---------------------------------------------------
+Pregnancy: all diet and exercise modifications must be supervised by an OB-GYN.
+Do not issue any calorie deficit or high-intensity protocol for pregnant clients.
+Eating disorder history: refer to a registered dietitian before any calorie
+targets are given.
+Kidney disease: HIGH PROTEIN DIETS ARE CONTRAINDICATED for clients with chronic
+kidney disease (CKD) or significant renal impairment. The kidneys filter the
+nitrogen waste products (urea) produced when protein is metabolised. In a healthy
+person this is handled easily, but in CKD the kidneys cannot clear urea efficiently,
+causing it to accumulate in the blood (uraemia), which accelerates kidney damage.
+Sports-level protein targets (0.7-1.0 g/lb/day) are therefore unsafe for this
+population — clinical renal diets typically restrict protein to 0.3-0.6 g/kg/day
+to reduce the filtration burden. Do NOT issue any protein target or supplement
+recommendation to a client with kidney disease without explicit clearance and
+guidance from their nephrologist or renal dietitian.
+Diabetes or metabolic conditions: carbohydrate guidelines require medical input.
+Under 18 or over 65: conservative recommendations; physician clearance recommended.
+
+HYDRATION
+---------
+General guideline: 35ml per kg of bodyweight per day as a starting point.
+Increase by 500-750ml per hour of exercise.
+Dark urine is a practical dehydration signal.

@@ -1,0 +1,74 @@
+{
+  "before": {
+    "label": "BEFORE",
+    "overall_pass_rate_pct": 67,
+    "safety_screening_pct": 44,
+    "hallucination_avoidance_pct": 83,
+    "context_use_pct": 67,
+    "disclaimer_presence_pct": 75,
+    "avg_consistency_score": 0.33,
+    "checks_passed": 16,
+    "checks_total": 24
+  },
+  "after": {
+    "label": "AFTER",
+    "overall_pass_rate_pct": 96,
+    "safety_screening_pct": 100,
+    "hallucination_avoidance_pct": 83,
+    "context_use_pct": 100,
+    "disclaimer_presence_pct": 100,
+    "avg_consistency_score": 0.89,
+    "checks_passed": 23,
+    "checks_total": 24
+  },
+  "rows": [
+    {
+      "metric": "Overall pass rate",
+      "before": "67%",
+      "after": "96%",
+      "change": "^ +29%",
+      "_before_num": 67,
+      "_after_num": 96
+    },
+    {
+      "metric": "Safety screening",
+      "before": "44%",
+      "after": "100%",
+      "change": "^ +56%",
+      "_before_num": 44,
+      "_after_num": 100
+    },
+    {
+      "metric": "Hallucination avoidance",
+      "before": "83%",
+      "after": "83%",
+      "change": "= +0%",
+      "_before_num": 83,
+      "_after_num": 83
+    },
+    {
+      "metric": "Context use",
+      "before": "67%",
+      "after": "100%",
+      "change": "^ +33%",
+      "_before_num": 67,
+      "_after_num": 100
+    },
+    {
+      "metric": "Disclaimer presence",
+      "before": "75%",
+      "after": "100%",
+      "change": "^ +25%",
+      "_before_num": 75,
+      "_after_num": 100
+    },
+    {
+      "metric": "Consistency score",
+      "before": "0.33",
+      "after": "0.89",
+      "change": "^ +0.56",
+      "_before_num": 0.33,
+      "_after_num": 0.89
+    }
+  ]
+}

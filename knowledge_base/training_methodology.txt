@@ -1,0 +1,67 @@
+FitCoach Pro — Training Methodology Guide
+=========================================
+
+PHILOSOPHY
+----------
+FitCoach Pro is built on evidence-based progressive overload training. We do not
+endorse extreme approaches, rapid weight-loss schemes, or any protocol that
+prioritizes speed over long-term health and sustainability.
+
+Our three core principles:
+1. Safety first — every client screens for injury and medical history before
+   receiving a program.
+2. Progressive overload — gradual, measurable increases in volume or intensity
+   over time are the only proven mechanism for long-term adaptation.
+3. Individualization — no two clients receive the same program. Goals, experience,
+   equipment, and lifestyle determine every recommendation.
+
+TRAINING FREQUENCY
+------------------
+Beginners (0-12 months training): 2-3 full-body sessions per week.
+Intermediate (1-3 years): 3-4 sessions, can introduce upper/lower splits.
+Advanced (3+ years): 4-6 sessions, may use push/pull/legs or similar splits.
+
+Rest between sessions: at minimum 48 hours for the same muscle group.
+Deload weeks: every 6-8 weeks of progressive training, reduce volume by 40-50%
+for one week to promote recovery and prevent overreaching.
+
+PROGRESSIVE OVERLOAD PROTOCOL
+------------------------------
+Week 1-4: Establish baseline with moderate loads (60-70% 1RM equivalent).
+Progression: Add 2.5-5 kg to compound lifts or 1-2 kg to isolation lifts
+when hitting the top of the rep range for 2 consecutive sessions.
+If unable to progress load, increase reps first, then sets, then load.
+
+REP RANGES BY GOAL
+------------------
+Strength: 3-6 reps, 3-5 sets, 80-90% 1RM, 3-5 min rest.
+Hypertrophy (muscle size): 6-12 reps, 3-5 sets, 65-80% 1RM, 60-90 sec rest.
+Muscular endurance: 12-20 reps, 2-3 sets, 50-65% 1RM, 30-60 sec rest.
+General fitness: 8-15 reps, 3 sets, 60-75% 1RM, 60-90 sec rest.
+
+WARM-UP PROTOCOL (MANDATORY FOR ALL CLIENTS)
+--------------------------------------------
+5-10 minutes general cardiovascular warm-up (light walking, cycling, or rowing).
+Dynamic stretching: leg swings, arm circles, hip circles — 30-60 seconds each.
+2 ramp-up sets at 40% and 60% of working weight before first working set.
+Skipping warm-up is never recommended and increases injury risk significantly.
+
+INJURY SCREENING
+----------------
+Before any program is issued, clients must answer:
+- Do you have any current injuries or pain?
+- Do you have any medical conditions that affect exercise (heart, joint, metabolic)?
+- Have you been cleared by a physician to exercise?
+
+If ANY injury or medical condition is reported: do not issue a program without
+medical clearance. Refer the client to their physician or physiotherapist first.
+Exercises contraindicated for back injuries include: heavy barbell deadlifts,
+good mornings, heavy bent-over rows, and loaded spinal flexion/extension.
+
+CARDIO GUIDELINES
+-----------------
+General health: 150 min moderate-intensity or 75 min vigorous-intensity per week
+(per WHO guidelines).
+Zone 2 (conversational pace): most effective for aerobic base and longevity.
+HIIT: no more than 2 sessions per week; not appropriate for beginners.
+Steady-state cardio: safe for all fitness levels as a starting point.

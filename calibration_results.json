@@ -1,0 +1,10 @@
+{
+  "changed": true,
+  "min_positive": 0.504,
+  "max_negative": 0.165,
+  "gap": 0.339,
+  "recommended": 0.302,
+  "driver": "60% heuristic",
+  "margin_below_positive": 0.202,
+  "margin_above_negative": 0.137
+}

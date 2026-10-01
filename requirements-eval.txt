@@ -1,0 +1,15 @@
+# Evaluation tools — install these for the upgraded audit layer.
+# NOTE: Ragas pins older langchain versions. To avoid conflicts with the
+# main pipeline, consider a separate virtual environment for ragas_eval.py,
+# OR install everything together and accept the pinned versions (tested working).
+
+# DeepEval — research-backed audit metrics (audit_deepeval.py)
+deepeval>=4.0
+
+# Ragas — RAG quality triad (ragas_eval.py). Pins below are the tested-compatible pair.
+ragas==0.2.10
+langchain-community==0.3.7
+datasets>=2.0
+
+# Promptfoo is a Node tool, installed separately:
+#   npm install -g promptfoo
